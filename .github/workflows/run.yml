@@ -2,7 +2,7 @@ name: 刷步数
 
 on:
   schedule:
-    - cron: '36 8 * * *'
+    - cron: '42 7 * * *'
   workflow_dispatch:
 
 jobs:
